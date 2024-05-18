@@ -8,9 +8,9 @@ export default function Header() {
           Home
         </Link>
         <div className='space-x-4 text-xl'>
-          <Link href='/services'>Services</Link>
-          <Link href='/about'>About</Link>
-          <Link href='/contact'>Contact</Link>
+          <Link href='/services'>Our Services</Link>
+          <Link href='/about'>About Us</Link>
+          <Link href='/contact'>Contact Us</Link>
         </div>
       </nav>
     </div>
